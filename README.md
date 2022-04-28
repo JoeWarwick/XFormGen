@@ -1,2 +1,2 @@
 # XFormGen
-XSD to XFORM implementation in VB.net
+XSD to XFORM implementation in C#
